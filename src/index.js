@@ -5,3 +5,4 @@ import ShowList from "./components/Pages/ShowList";
 const myComponent = <ShowList />;
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(myComponent);
+
